@@ -1,7 +1,5 @@
 # Megumin
- Sou uma demônio carmesim com o intuito de te divertir!
-
-![Megumin](https://cdn.discordapp.com/attachments/537404035192455178/714576909681426502/images_17.jpeg)
+Sou uma demônio carmesim com o intuito de te divertir!
 
 # Comandos
 Aqui esta listada todas as categorias dos meus comandos atualmente
