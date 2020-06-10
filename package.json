@@ -1,0 +1,43 @@
+{
+  "name": "aqua-v2",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.2",
+    "util": "^0.12.3",
+    "https": "^1.0.0",
+    "mal-scraper": "^2.6.9",
+    "node-fetch": "^2.6.0",
+    "@k3rn31p4nic/google-translate-api": "^1.1.0",
+    "moment": "^2.26.0",
+    "canvas": "^2.6.1",
+    "jimp": "^0.12.1",
+    "puppeteer": "^3.2.0",
+    "weather-js": "^2.0.0",
+    "cheerio": "^0.22.0",
+    "mongoose": "^5.9.16",
+    "simsimi": "^3.0.0",
+    "yt-search": "^1.1.2",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "moment-duration-format": "^2.2.2",
+    "intl": "^1.2.5",
+    "aki-api": "^5.0.0",
+    "request-promise-native": "^1.0.8",
+    "heroku": "^7.41.1",
+    "git": "^0.1.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/aqua-v2"
+  },
+  "license": "MIT"
+}
